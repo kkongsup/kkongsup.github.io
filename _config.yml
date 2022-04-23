@@ -105,8 +105,8 @@ author:
   name             : "김경섭"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "김경섭의 블로그입니다"
-  location         : "South KOREA"
-  email            : "dc_card@naver.com"
+  location         : "South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -194,7 +194,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)
