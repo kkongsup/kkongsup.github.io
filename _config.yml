@@ -111,12 +111,10 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dc_card@naver.com"
-    - label: "Website"
+    - label: "Naver Smartstore"
       icon: "fas fa-fw fa-link"
       url: "https://smartstore.naver.com/an2392"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kkongsup/kkongsup.github.io"
+
 
 # Site Footer
 footer:
