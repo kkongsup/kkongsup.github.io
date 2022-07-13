@@ -111,9 +111,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:dc_card@naver.com"
-    - label: "Naver Smartstore"
-      icon: "fas fa-fw fa-link"
-      url: "https://smartstore.naver.com/an2392"
 
 
 # Site Footer
